@@ -4,26 +4,26 @@
             "cn": "0,1,2,3",
             "da": "true",
             "et": "0,3,5",
-            "ft": "0x5A7FFFF7,0xE",
+            "ft": "0x4A7FFFF7,0xE",
             "md": "0,1,2",
-            "am": "AppleTV3,2",
             "pk": "ad6e2f1b089096a9f7fc665dc4fa95f36d64c78bd767ec32a1981546c5022da5",
+            "am": "AppleTV2,1",
             "sf": "0x4c",
             "tp": "UDP",
             "vn": "65537",
-            "vs": "220.68",
+            "vs": "265.5",
             "vv": "2"
         },
         "video_txtRecord": {
-            "features": "0x5A7FFFF7,0xE",
+            "features": "0x4A7FFFF7,0xE",
             "flags": "0x4c",
             "pk": "ad6e2f1b089096a9f7fc665dc4fa95f36d64c78bd767ec32a1981546c5022da5",
             "pin": "1",
-            "srcvers": "220.68",
+            "srcvers": "265.5",
             "vv": "2"
         },
         "audio_type": "_raop._tcp.",
-        "audio_port": "5000",
+        "audio_port": "7000",
         "video_type": "_airplay._tcp.",
         "video_port": "7000"
     }

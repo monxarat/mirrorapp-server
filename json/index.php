@@ -63,6 +63,9 @@ elseif ($request == "devicetype") {
 	case 3: 
 	  $jsonfile = "ReflectorRegistration.json";
 	  break;
+        case 4:
+          $jsonfile = "AppleTV5Registration.json";
+          break;
 	default:
 	  $jsonfile = "AppleTV3comma2Registration.json";
 	  break;
