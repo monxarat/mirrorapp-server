@@ -41,7 +41,7 @@ The JSON server provides the following calls for the App.
   * https://(MirrorUrl)/json/?response=buildings&id=(buildingid)
   * https://(MirrorUrl)/json/?response=rooms&id=(roomid)
   * https://(MirrorUrl)/json/?response=devices&id=(deviceid)
-  * https://(MirrorUrl)/json/?response=devicetype&id=(devicetypeid) (0=AppleTV3,2 1=AppleTV2,1 2=AirServer 3=Reflector)
+  * https://(MirrorUrl)/json/?response=devicetype&id=(devicetypeid) (0=AppleTV3,2 1=AppleTV2,1 2=AirServer 3=Reflector 4=AppleTV5)
   
 An easy way to test that your Mirror App Server is working is to check https://(MirrorUrl)/json/?response=campuses for the proper response. An example server is located at [https://mirrordemo.tlt.psu.edu/json/?response=campuses][https://mirrordemo.tlt.psu.edu/json/?response=campuses].
 
